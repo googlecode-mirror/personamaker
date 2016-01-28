@@ -1,0 +1,1 @@
+A PHP based application for creating and profiling story characters for literary works.  Allows the user to create, name and store characters in a database.  Character attributes can be assigned from a range of options.
